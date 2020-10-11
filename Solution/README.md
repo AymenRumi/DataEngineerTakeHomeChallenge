@@ -10,31 +10,31 @@ class DataPrepocessor:
         
   def __init__():      # initializes object 
                                 
-  def importData():   # import data into object
+  def importData():    # import data into object
   
-  def printColumnNames(): 
+  def printColumnNames():    # print data columns         
   
-  def countDuplicates():          
+  def countDuplicates():     # count duplicate data entries in a given column      
   
-  def removeDuplicates(): 
+  def removeDuplicates():    # remove duplicate entries in a given column
       
-  def addRank():     
+  def addRank():         # add rank for numerical column
   
-  def anonymizeColumn(): 
+  def anonymizeColumn():     # encrypt a column
   
-  def decryptColumn():    
+  def decryptColumn():       # decrypt an encrypted column 
   
-  def decryptEntry():
+  def decryptEntry():        # decrypt ecnrypted data entry
   
-  def invertedIndex():    
+  def invertedIndex():       # create inverted index table
   
-  def saveData():   
+  def saveData():         # save dataset
   
-  def JSONtoParquet():
+  def JSONtoParquet():        # convert JSON to parquet
   
-  def getEncryptionKeys():    
+  def getEncryptionKeys():    # return encryption keys for encrypted columns
   
-  def getData():  
+  def getData():          # return data
 
 ```
 ## Solution - Jupyter Notebook 
