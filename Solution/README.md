@@ -53,7 +53,7 @@ With focus on:
 1. `Maintainability`
 2. `Reusability`
 3. `Robustness`
-4. `Scalability` (PySpark Dataframe needed for Big Data Processing)
+4. `Scalability` (PySpark Dataframe may be needed for Big Data Processing)
                
 ## Solution - Jupyter Notebook 
 
