@@ -81,7 +81,7 @@ preprocessor.removeDuplicates('created_at')
 ```
 
 
-2. `Task` Compute the Rank by Group
+2. Task - `Compute the Rank by Group`
 ```python
 
 # method called
@@ -90,7 +90,7 @@ preprocessor.addRank('user_score', 'sub_group_rank',group_by='age_group')
 ```
 
 
-3. `Task` Flattening & Extracting List
+3. Task - `Flattening & Extracting List`
 ```python
 
 widget_name=[]
@@ -104,7 +104,7 @@ df = pd.DataFrame({'widget_name':widget_name,'widget_amount':widget_amount})
 ```
 
 
-4. `Task` Anonymize Column, & Decrypt Entry
+4. Task - `Anonymize Column, & Decrypt Entry`
 ```python
 
 # methods called
@@ -114,7 +114,7 @@ preprocessor.decryptEntry(anonymous_email,'email_anon')
 preprocessor.decryptColumn('email_anon')
 ```
 
-5. `Task` Inverted Index Table
+5. Task - `Inverted Index Table`
 ```python
 
 # method called
