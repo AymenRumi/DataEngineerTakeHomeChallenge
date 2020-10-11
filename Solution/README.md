@@ -7,13 +7,8 @@
 
 ## Solution - Jupyter Notebook 
 ```python
-from typing import Iterator
-
-def fib(n: int) -> Iterator[int]:
-    a, b = 0, 1
-    while a < n:
-        yield a
-        a, b = b, a + b
+from DataPrepocessor import DataPrepocessor
+preprocessor=DataPrepocessor("https://raw.githubusercontent.com/Mistplay/DataEngineerTakeHomeChallenge/master/data.json")
 ```
 
 ## Data Analysis - R
