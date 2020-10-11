@@ -133,6 +133,7 @@ Extra work done on the [data.json](https://github.com/Mistplay/DataEngineerTakeH
 
 Example of `Total Revenue by Location`
 
+<img src="img.png" alt="GUI" width="700"/>
 
 
 
