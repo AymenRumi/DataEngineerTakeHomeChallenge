@@ -125,4 +125,4 @@ preprocessor.invertedIndex('location','id',"inverted_indexTable")
 
 [JSON file](https://github.com/AymenRumi/DataEngineerTakeHomeChallenge/blob/master/Solution/inverted_indexTable.json) for Task 5 table
 
-## Data Analysis - R
+## Data Visualization - R
