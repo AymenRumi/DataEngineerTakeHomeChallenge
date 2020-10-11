@@ -8,19 +8,31 @@ class DataPrepocessor:
         
   def __init__():      
                                 
-   def importData():          
-        def printColumnNames():                              
-        def countDuplicates():                               
-        def removeDuplicates():                              
-        def addRank():              
-        def anonymizeColumn():     
-        def decryptColumn()         
-        def decryptEntry()          
-        def invertedIndex()         
-        def saveData()   
-        def JSONtoParquet() 
-        def getEncryptionKeys()    
-        def getData()  
+  def importData():   
+  
+  def printColumnNames(): 
+  
+  def countDuplicates():          
+  
+  def removeDuplicates(): 
+      
+  def addRank():     
+  
+  def anonymizeColumn(): 
+  
+  def decryptColumn():    
+  
+  def decryptEntry():
+  
+  def invertedIndex():    
+  
+  def saveData():   
+  
+  def JSONtoParquet():
+  
+  def getEncryptionKeys():    
+  
+  def getData():  
 
 ```
 ## Solution - Jupyter Notebook 
