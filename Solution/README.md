@@ -47,7 +47,7 @@ class DataPrepocessor:
 
 ```
 
-The code follows `object oriented design` standard and is meant to be used for future data preprocessing.
+The [code](https://github.com/AymenRumi/DataEngineerTakeHomeChallenge/blob/master/Solution/DataPrepocessor.py) follows `object oriented design` standard and is meant to be used for future data preprocessing.
 
 With focus on:
 1. `Maintainability`
