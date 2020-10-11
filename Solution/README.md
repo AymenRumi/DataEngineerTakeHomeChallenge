@@ -46,6 +46,12 @@ class DataPrepocessor:
   def getData():          # return data
 
 ```
+
+This code follows `object oriented design` standard and is meant to be used for future data preprocessing.
+With focus on
+               1. `Maintainability`
+               2. `Scalability` (PySpark Dataframe needed for Big Data Processing)
+               
 ## Solution - Jupyter Notebook 
 ```python
 from DataPrepocessor import DataPrepocessor
