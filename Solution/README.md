@@ -8,9 +8,9 @@
 
 class DataPrepocessor:
         
-  def __init__():      
+  def __init__():      # initializes object 
                                 
-  def importData():   
+  def importData():   # import data into object
   
   def printColumnNames(): 
   
