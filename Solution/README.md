@@ -103,6 +103,7 @@ for list in (preprocessor.getData()['widget_list']):
 df = pd.DataFrame({'widget_name':widget_name,'widget_amount':widget_amount})
 ```
 
+[JSON file](https://github.com/AymenRumi/DataEngineerTakeHomeChallenge/blob/master/Solution/flattened_widget.json) for Task 3 table
 
 4. Task - `Anonymize Column, & Decrypt Entry`
 ```python
@@ -113,6 +114,7 @@ preprocessor.anonymizeColumn('email')
 preprocessor.decryptEntry(anonymous_email,'email_anon')
 preprocessor.decryptColumn('email_anon')
 ```
+[JSON file](https://github.com/AymenRumi/DataEngineerTakeHomeChallenge/blob/master/Solution/preprocessed_Data.json) for Processed Data from Task 1,2,4
 
 5. Task - `Inverted Index Table`
 ```python
@@ -121,5 +123,6 @@ preprocessor.decryptColumn('email_anon')
 preprocessor.invertedIndex('location','id',"inverted_indexTable")
 ```
 
+[JSON file](https://github.com/AymenRumi/DataEngineerTakeHomeChallenge/blob/master/Solution/inverted_indexTable.json) for Task 5 table
 
 ## Data Analysis - R
