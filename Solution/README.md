@@ -9,7 +9,7 @@ This object may be used to process any dataset that adhere to proper file format
 
 Futher methods may be added to deal with future data processing needs
 
-Code below contains the `template` for the preprocessor objects
+Code below contains the `template` for the preprocessor object
 
 ```python
 
