@@ -1,8 +1,8 @@
 # Solution : Mistplay Data Engineer Take Home Challenge 
 
 
-## Python Data Preprocessing Object
+## Data Preprocessing Object - Python 
 
 
 
-## Jupyter Notebook Task Solution
+## Solution - Jupyter Notebook 
