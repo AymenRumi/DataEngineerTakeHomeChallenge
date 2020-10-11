@@ -17,9 +17,9 @@ Code below contains the `template` for the preprocessor object
 
 class DataPrepocessor:
         
-  def __init__():      # initializes object 
+  def __init__():            # initializes object 
                                 
-  def importData():    # import data into object
+  def importData():          # import data into object
   
   def printColumnNames():    # print data columns         
   
@@ -27,7 +27,7 @@ class DataPrepocessor:
   
   def removeDuplicates():    # remove duplicate entries in a given column
       
-  def addRank():         # add rank for numerical column
+  def addRank():             # add rank for numerical column
   
   def anonymizeColumn():     # encrypt a column
   
@@ -37,13 +37,13 @@ class DataPrepocessor:
   
   def invertedIndex():       # create inverted index table
   
-  def saveData():         # save dataset
+  def saveData():            # save dataset
   
-  def JSONtoParquet():        # convert JSON to parquet
+  def JSONtoParquet():       # convert JSON to parquet
   
-  def getEncryptionKeys():    # return encryption keys for encrypted columns
+  def getEncryptionKeys():   # return encryption keys for encrypted columns
   
-  def getData():          # return data
+  def getData():             # return data
 
 ```
 
