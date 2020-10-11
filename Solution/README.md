@@ -71,7 +71,7 @@ from DataPrepocessor import DataPrepocessor
 preprocessor=DataPrepocessor("https://raw.githubusercontent.com/Mistplay/DataEngineerTakeHomeChallenge/master/data.json")
 ```
 
-1. `Task:` Removing Duplicates
+*  `Task:` Removing Duplicates
 ```python
 
 # method called
