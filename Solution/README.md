@@ -56,6 +56,9 @@ With focus on:
 4. `Scalability` (PySpark Dataframe needed for Big Data Processing)
                
 ## Solution - Jupyter Notebook 
+
+[Mistplay Data Engineer Take Home Challenge.ipynb](https://github.com/AymenRumi/DataEngineerTakeHomeChallenge/blob/master/Solution/Mistplay%20Data%20Engineer%20Take%20Home%20Challenge.ipynb) contains solution to Misplay Data Engineering Challenge for Task 1 - Task 6.
+
 ```python
 from DataPrepocessor import DataPrepocessor
 
