@@ -1,6 +1,5 @@
 # Solution : Mistplay Data Engineer Take Home Challenge 
 
-`Author` Aymen Rumi
 
 ## Data Preprocessing Object - Python 
 [DataPrepocessor.py](https://github.com/AymenRumi/DataEngineerTakeHomeChallenge/blob/master/Solution/DataPrepocessor.py) contains code for the data processing object used for [Mistplay Data Engineering Challenge](https://github.com/Mistplay/DataEngineerTakeHomeChallenge).
