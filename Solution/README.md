@@ -80,4 +80,46 @@ preprocessor.removeDuplicates('id')
 preprocessor.removeDuplicates('created_at')
 ```
 
+
+2. `Task:` Compute the Rank by Group
+```python
+
+# method called
+
+preprocessor.addRank('user_score', 'sub_group_rank',group_by='age_group')
+```
+
+
+3. `Task:` Flattening & Extracting List
+```python
+
+widget_name=[]
+widget_amount=[]
+
+for list in (preprocessor.getData()['widget_list']):
+    for i in range(len(list)):
+        widget_name.append(list[i]['name'])
+        widget_amount.append(list[i]['amount'])
+df = pd.DataFrame({'widget_name':widget_name,'widget_amount':widget_amount})
+```
+
+
+4. `Task:` Anonymize Column, & Decrypt Entry
+```python
+
+# methods called
+
+preprocessor.anonymizeColumn('email')
+preprocessor.decryptEntry(anonymous_email,'email_anon')
+preprocessor.decryptColumn('email_anon')
+```
+
+5. `Task:` Inverted Index Table
+```python
+
+# method called
+preprocessor.invertedIndex('location','id',"inverted_indexTable")
+```
+
+
 ## Data Analysis - R
