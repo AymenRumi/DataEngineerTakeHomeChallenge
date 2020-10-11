@@ -51,8 +51,9 @@ The [code](https://github.com/AymenRumi/DataEngineerTakeHomeChallenge/blob/maste
 
 With focus on:
 1. `Maintainability`
-3. `Reusability`
-2. `Scalability` (PySpark Dataframe needed for Big Data Processing)
+2. `Reusability`
+3. `Robustness`
+4. `Scalability` (PySpark Dataframe needed for Big Data Processing)
                
 ## Solution - Jupyter Notebook 
 ```python
