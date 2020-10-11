@@ -12,19 +12,32 @@ This object may be used to process any dataset that adhere to proper file format
 Documentation:
     class DataPrepocessor:
         
-        def __init__()              -initializes object                         
+        def __init__()              -initializes object       
+        
         def importData()            -import data into object
-        def printColumnNames()      -print data columns                       
-        def countDuplicates()       -count duplicate data entries in given column                     
-        def removeDuplicates()      -remove duplicate entries in given column                  
+        
+        def printColumnNames()      -print data columns     
+        
+        def countDuplicates()       -count duplicate data entries in given column   
+        
+        def removeDuplicates()      -remove duplicate entries in given column     
+        
         def addRank()               -add rank of numerical column
+        
         def anonymizeColumn()       -encrypt a column
+        
         def decryptColumn()         -decrypt encrypted column
+        
         def decryptEntry()          -decrypt encrypted data entry
+        
         def invertedIndex()         -create inverted index table
+        
         def saveData()              -save dataset 
+        
         def JSONtoParquet()         -convert JSON to parquet
+        
         def getEncryptionKeys()     -return encryption keys for encrypted column
+        
         def getData()               -return data
 """
 
