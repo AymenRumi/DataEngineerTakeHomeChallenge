@@ -129,4 +129,6 @@ preprocessor.invertedIndex('location','id',"inverted_indexTable")
 
 Extra work done on the [data.json](https://github.com/Mistplay/DataEngineerTakeHomeChallenge/blob/master/data.json) file
 
-`Data Visualization` and `Summary Statistic` analyzed with `R`
+[MistplayDatasetAnalysis.pdf](https://github.com/AymenRumi/DataEngineerTakeHomeChallenge/blob/master/Solution/MistplayDatasetAnalysis.pdf) contain `Data Visualization` and `Summary Statistic` analyzed with `R`
+
+
