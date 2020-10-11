@@ -131,4 +131,8 @@ Extra work done on the [data.json](https://github.com/Mistplay/DataEngineerTakeH
 
 [MistplayDatasetAnalysis.pdf](https://github.com/AymenRumi/DataEngineerTakeHomeChallenge/blob/master/Solution/MistplayDatasetAnalysis.pdf) contain `Data Visualization` and `Summary Statistic` analyzed with `R`
 
+Example of `Total Revenue by Location`
+
+
+
 
