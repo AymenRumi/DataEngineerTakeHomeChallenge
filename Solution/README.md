@@ -59,8 +59,14 @@ With focus on:
 
 [Mistplay Data Engineer Take Home Challenge.ipynb](https://github.com/AymenRumi/DataEngineerTakeHomeChallenge/blob/master/Solution/Mistplay%20Data%20Engineer%20Take%20Home%20Challenge.ipynb) contains solution to Misplay Data Engineering Challenge for Task 1 - Task 6.
 
+`DataPrepocessor` object is called and initialized 
+
 ```python
+# initialization
+
 from DataPrepocessor import DataPrepocessor
+
+# importing data
 
 preprocessor=DataPrepocessor("https://raw.githubusercontent.com/Mistplay/DataEngineerTakeHomeChallenge/master/data.json")
 ```
