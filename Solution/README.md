@@ -2,8 +2,9 @@
 
 
 ## Data Preprocessing Object - Python 
-[DataPrepocessor.py](https://github.com/AymenRumi/DataEngineerTakeHomeChallenge/blob/master/Solution/DataPrepocessor.py) contains code for a data processing object used for Mistplay Data Engineering Challenge
-Object will be called to process data according to Mistplay requirements
+[DataPrepocessor.py](https://github.com/AymenRumi/DataEngineerTakeHomeChallenge/blob/master/Solution/DataPrepocessor.py) contains code for a data processing object used for Mistplay Data Engineering Challenge.
+
+This Object will be called to process data according to Mistplay requirements
 This object may be used to process any dataset that adhere to proper file format. Futher methods may be added to deal with future data processing needs
 
 ```python
