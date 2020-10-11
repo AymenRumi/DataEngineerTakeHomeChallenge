@@ -45,7 +45,7 @@ Documentation:
 # imported packages
 # Requirements: Python Data Structure, Regex, Encryption, JSON reader, Parquet reader, JSONtoParquet converter
 
-""" PySpark  dataframe may be used if data being processed is considered Big Data"""
+""" PySpark  dataframe must be used if data being processed is considered Big Data"""
 
 import snappy
 import re
