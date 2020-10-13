@@ -71,7 +71,7 @@ from DataPrepocessor import DataPrepocessor
 preprocessor=DataPrepocessor("https://raw.githubusercontent.com/Mistplay/DataEngineerTakeHomeChallenge/master/data.json")
 ```
 
-Solution `Overview` below, click [here](https://github.com/AymenRumi/DataEngineerTakeHomeChallenge/blob/master/Solution/Mistplay%20Data%20Engineer%20Take%20Home%20Challenge.ipynb) for full solutiom:
+Solution `Overview` below, click [here](https://github.com/AymenRumi/DataEngineerTakeHomeChallenge/blob/master/Solution/Mistplay%20Data%20Engineer%20Take%20Home%20Challenge.ipynb) for full solution:
 
 
 1.  Task - `Removing Duplicates`
