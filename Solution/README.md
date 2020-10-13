@@ -37,7 +37,7 @@ class DataPrepocessor:
   
   def invertedIndex():       # create inverted index table
   
-  def saveData():            # save dataset
+  def saveData():            # save dataset as a file
   
   def JSONtoParquet():       # convert JSON to parquet
   
