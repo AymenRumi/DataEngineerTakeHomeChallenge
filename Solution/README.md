@@ -21,7 +21,7 @@ class DataPrepocessor:
                                 
   def importData():          # import data into object
   
-  def printColumnNames():    # print data columns         
+  def printColumnNames():    # print data column names         
   
   def countDuplicates():     # count duplicate data entries in a given column      
   
