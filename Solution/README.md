@@ -2,7 +2,7 @@
 
 
 ## Data Preprocessing Object - Python 
-[DataPrepocessor.py](https://github.com/AymenRumi/DataEngineerTakeHomeChallenge/blob/master/Solution/DataPrepocessor.py) contains code for the data processing object I used for the [Mistplay Data Engineering Challenge](https://github.com/Mistplay/DataEngineerTakeHomeChallenge).
+[DataPrepocessor.py](https://github.com/AymenRumi/DataEngineerTakeHomeChallenge/blob/master/Solution/DataPrepocessor.py) contains code for the data processing object I used for [Mistplay Data Engineering Challenge](https://github.com/Mistplay/DataEngineerTakeHomeChallenge).
 
 This `object` will be called to process data according to Mistplay requirements.
 This object may be used to process any dataset that adhere to proper file format(JSON & Parquet).
